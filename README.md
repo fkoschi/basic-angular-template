@@ -1,6 +1,10 @@
-# Mopstreffen
+# Basic Template 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+
+I was using this [tutorial](https://medium.com/@beeman/tutorial-styling-angular-cli-v6-apps-with-bootstrap-8d4f8ea5adae) to install both Bootstrap and Font-Awesome to the project. 
+
+Moreover it has a simple footer and header part. 
 
 ## Development server
 
